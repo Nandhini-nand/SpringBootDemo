@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tutorialspoint.demo3.ProductServiceControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.685 sec - in com.tutorialspoint.demo3.ProductServiceControllerTest
